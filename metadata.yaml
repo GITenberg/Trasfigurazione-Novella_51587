@@ -1,0 +1,28 @@
+_repo: Trasfigurazione-Novella_51587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aleramo, Sibilla
+    alias: Faccio, Rina
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '3808'
+    url: http://www.gutenberg.org/2009/agents/3808
+    wikipedia: http://it.wikipedia.org/wiki/Sibilla_Aleramo
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51587'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 20th century'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+- GITenberg
+title: 'Trasfigurazione: Novella'
+url: http://www.gutenberg.org/ebooks/51587
